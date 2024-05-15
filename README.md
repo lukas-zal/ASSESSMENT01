@@ -1,6 +1,10 @@
 ### Quizz assessment attempt
 What was made:
 
+program is created to run with command lines from user
+
+
+
 -Made the initial menu with the register/login/play/exit options
 
 -Made the quizz game 
